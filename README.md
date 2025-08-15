@@ -5,9 +5,13 @@ This repository contains the complete codebase, datasets, and analysis workflows
 The repository includes:
 
 Deep Learning Models: Transformer and LSTM architectures for predictive modeling of AML cell fate dynamics.
+
 Statistical & Regression Models: Bayesian ridge regression for feature importance ranking.
+
 Complexity Analysis: BDM signature extraction, causal perturbation analysis, and network instability mapping.
+
 Bulk RNA-seq Pipeline
+
 Results: Extracted differentially expressed genes (DEGs), feature importance scores, and ranked BDM signatures for reproducibility.
 
 All code and result files are provided to allow full reproduction of the analyses in the manuscript.
